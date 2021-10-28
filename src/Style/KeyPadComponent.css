@@ -1,0 +1,21 @@
+button{
+    height: 50px;
+    width: 78px;
+    margin: 1px;
+    background: rgb(23 23 23);
+    color: white;
+    border: none;
+}
+.button{
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+}
+
+button:hover{
+    background: rgb(79 79 79);
+}
+
+.button__color{
+    background: rgb(8 8 8);
+}
