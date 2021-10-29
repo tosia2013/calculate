@@ -1,0 +1,7 @@
+.result{
+   color: white;
+    font-size: 30px;
+    display: flex;
+    flex-direction: row-reverse;
+    margin: 0 16px;
+}
